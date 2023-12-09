@@ -1,1 +1,2 @@
-# kaialamichin131.github.io
+# CHIN 131 Final Project
+## Kai Alami
