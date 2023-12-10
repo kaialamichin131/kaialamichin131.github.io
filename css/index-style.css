@@ -19,7 +19,27 @@ hr {
 a {
     color: rgb(0, 55, 128);
     font-size: 30px;
+    transition: 100ms;
 }
+
+a:hover {
+    color: rgb(0, 105, 241);
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+    color: rgb(0, 55, 128);
+    border: 2px solid rgb(0, 55, 128);
+    cursor: pointer;
+    transition: 100ms;
+}
+
+button:hover {
+    background-color: rgb(0, 55, 128);
+    color: #fff;
+}
+
 
 .section-text a {
     font-size: 18px;
